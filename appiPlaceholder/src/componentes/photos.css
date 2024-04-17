@@ -1,0 +1,14 @@
+.contenedor {
+  width: 100%;
+  height: 100vh;
+}
+
+.cardsImgs {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.photo-item img {
+  max-width: 50%;
+}
